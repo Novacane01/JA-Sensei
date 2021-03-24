@@ -36,7 +36,7 @@ pymongo==3.5.0
 python-mimeparse==1.6.0
 pytz==2017.2
 requests==2.18.3
-rsa==3.4.2
+rsa==4.1
 six==1.10.0
 tenacity==4.4.0
 urllib3==1.22
